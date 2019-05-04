@@ -4,6 +4,4 @@ Heading West is a font based on my own handwriting.
 
 ## Author
 
-Stephan Wagner\s\s
-https://stephanwagner.me\s\s
-stephanwagner.me@gmail.com
+Stephan Wagner <stephanwagner.me@gmail.com> (https://stephanwagner.me)
