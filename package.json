@@ -1,0 +1,19 @@
+{
+  "name": "heading-west",
+  "version": "0.0.1",
+  "description": "Heading West font",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/StephanWagner/HeadingWest"
+  },
+  "keywords": [
+    "font",
+    "handwritten"
+  ],
+  "author": "Stephan Wagner <stephanwagner.me@gmail.com> (https://stephanwagner.me)",
+  "license": "SIL Open Font License v1.1",
+  "bugs": {
+    "url": "https://github.com/mhlavac/font-just-another-hand/issues"
+  },
+  "homepage": "https://github.com/StephanWagner/HeadingWest"
+}
