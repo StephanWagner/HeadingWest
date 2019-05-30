@@ -1,0 +1,7 @@
+@font-face {
+  font-family: 'HeadingWest';
+  src: url('../fonts/HeadingWest.woff2') format('woff2'),
+       url('../fonts/HeadingWest.otf') format('opentype');
+  font-style: normal;
+  font-weight: normal;
+}
