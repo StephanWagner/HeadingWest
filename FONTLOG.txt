@@ -13,6 +13,9 @@ at stephanwagner.me@gmail.com
 
 ChangeLog
 
+9 June 2018 (v0.1.0)
+- Stable version with satisfying spacing and kerning
+
 4 May 2018 (v0.0.1)
 - Project start
 
