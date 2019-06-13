@@ -1,0 +1,5 @@
+TODO
+
+- Maybe a, m, v are a bit too thick?
+- Combinations tt, ff?
+- Font size settings seem to be off, the font seems to need a too large font size
