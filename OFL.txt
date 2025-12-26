@@ -1,4 +1,4 @@
-Copyright (c) 2022, Stephan Wagner <stephanwagner.me@gmail.com> (https://stephanwagner.me)
+Copyright 2025 Stephan Wagner <mail@stephanwagner.me> (https://stephanwagner.me)
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:

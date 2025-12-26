@@ -1,10 +1,11 @@
+# font editor temporary files
+*(Autosaved).glyphs
+HeadingWest.backup
+*.vfbak
+
 # file manager empty files
 .empty
 .sparkleshare
-# font editor temporary files
-HeadingWest.backup
-*(Autosaved).glyphs
-*.vfbak
 
 # OS generated files
 .DS_Store
